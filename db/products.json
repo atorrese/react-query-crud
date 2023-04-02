@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "Laptop Gamming",
+      "price": 1500,
+      "inStock": true
+    },
+    {
+      "name": "Mause",
+      "description": "Mause Gamming",
+      "price": "1000",
+      "inStock": true,
+      "id": 2
+    }
+  ]
+}
